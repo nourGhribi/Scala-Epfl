@@ -1,0 +1,7 @@
+run circuits.scala
+test
+run circuits.scala
+exit
+test
+exit
+test

@@ -1,0 +1,10 @@
+compile
+launchIDE
+compile
+test
+compile
+test
+packageSubmission
+test
+packageSubmission
+launchIDE

@@ -1,0 +1,19 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/macbook/2-recursion-zeineb12/target/scala-0.9/progfun1-recfun_0.9-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	recfun/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/2-recursion-zeineb12/target/scala-0.9/classes/recfun/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	recfun/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/2-recursion-zeineb12/target/scala-0.9/classes/recfun/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	common/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/2-recursion-zeineb12/target/scala-0.9/classes/common/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	recfun/Main.hasTasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/2-recursion-zeineb12/target/scala-0.9/classes/recfun/Main.hasTasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	common/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/2-recursion-zeineb12/target/scala-0.9/classes/common/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	common/package.hasTasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/2-recursion-zeineb12/target/scala-0.9/classes/common/package.hasTasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	common[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/2-recursion-zeineb12/target/scala-0.9/classes/common[0m
+[0m[[0m[0mdebug[0m] [0m[0m	recfun[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/2-recursion-zeineb12/target/scala-0.9/classes/recfun[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

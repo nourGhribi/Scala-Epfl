@@ -1,0 +1,63 @@
+[0m[[0mdebug[0m] [0mForking tests - parallelism = false[0m
+[0m[[0mdebug[0m] [0mCreate a single-thread test executor[0m
+[0m[[0mdebug[0m] [0mRunner for sbt.FrameworkWrapper produced 0 initial tasks for 0 tests.[0m
+[0m[[0mdebug[0m] [0mRunner for org.scalatest.tools.Framework produced 3 initial tasks for 3 tests.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(constraints.ArithmeticSuite, sbt.ForkMain$SubclassFingerscan@711b0317, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mArithmeticSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- binary2int works with one bit[0m[0m
+[0m[[0minfo[0m] [0m[32m- binary2int of one false is 0[0m[0m
+[0m[[0minfo[0m] [0m[32m- binary2int ignores leading zeros[0m[0m
+[0m[[0minfo[0m] [0m[32m- int2binary works on one bit numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- int2binary of 0 is false[0m[0m
+[0m[[0minfo[0m] [0m[32m- int2binary works with numbers needing 2 bits[0m[0m
+[0m[[0minfo[0m] [0m[32m- lessEquals between constant numbers of one bit[0m[0m
+[0m[[0minfo[0m] [0m[32m- lessEquals between constants is working[0m[0m
+[0m[[0minfo[0m] [0m[32m- fullAdder is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- fullAdder is working with constants[0m[0m
+[0m[[0minfo[0m] [0m[32m- fullAdder is working with symbolic variables[0m[0m
+[0m[[0minfo[0m] [0m[32m- adder of one bit numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- adder is computing correct result for constants[0m[0m
+[0m[[0minfo[0m] [0m[32m- adder is working with numbers of different length[0m[0m
+[0m[[0minfo[0m] [0m[32m- adder formula size is polynomial[0m[0m
+[0m[[0minfo[0m] [0m[32m- composition of adder to sum a list of numbers[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 16 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(constraints.BalelecSuite, sbt.ForkMain$SubclassFingerscan@79d35999, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mBalelecSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- countPositives is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- countPositiveBits of single bit[0m[0m
+[0m[[0minfo[0m] [0m[32m- countPositiveBits is working[0m[0m
+[0m[[0minfo[0m] [0m[32m- countPositiveBits of empty list counts 0[0m[0m
+[0m[[0minfo[0m] [0m[32m- atMostMaxTrue works with one bit[0m[0m
+[0m[[0minfo[0m] [0m[32m- atMostMaxTrue works with max of zero[0m[0m
+[0m[[0minfo[0m] [0m[32m- atMostMaxTrue works on empty list[0m[0m
+[0m[[0minfo[0m] [0m[32m- atMostMaxTrue works with constants[0m[0m
+[0m[[0minfo[0m] [0m[32m- schedule is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- schedule is working with one volunteer and one task[0m[0m
+[0m[[0minfo[0m] [0m[32m- schedule is working with two volunteers and two tasks[0m[0m
+[0m[[0minfo[0m] [0m[32m- schedule volunteer to several tasks under max workload[0m[0m
+[0m[[0minfo[0m] [0m[32m- schedule returns None on an impossible problem[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 13 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(constraints.ConcertsPlannerSuite, sbt.ForkMain$SubclassFingerscan@42a8b0d0, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mConcertsPlannerSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- getAllSlots is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- getAllSlots returns the correct slot when given only one band[0m[0m
+[0m[[0minfo[0m] [0m[32m- getAllSlots collects slots among several bands[0m[0m
+[0m[[0minfo[0m] [0m[32m- plan is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- plan one band on one slot[0m[0m
+[0m[[0minfo[0m] [0m[32m- plan two bands on two slots with no choice[0m[0m
+[0m[[0minfo[0m] [0m[32m- plan two bands on two slots when one band can play in the two slots[0m[0m
+[0m[[0minfo[0m] [0m[32m- plan two bands on two slots when the bands can play in any slots[0m[0m
+[0m[[0minfo[0m] [0m[32m- planning three bands on two slots is impossible[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 9 events.[0m
+[0m[[0mdebug[0m] [0mSummary for ScalaCheck not available.[0m
+[0m[[0minfo[0m] [0mScalaTest[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 2 seconds, 27 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 38[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 3, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 38, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0minfo[0m] [0mPassed: Total 38, Failed 0, Errors 0, Passed 38[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	constraints.ArithmeticSuite[0m
+[0m[[0mdebug[0m] [0m	constraints.ConcertsPlannerSuite[0m
+[0m[[0mdebug[0m] [0m	constraints.BalelecSuite[0m

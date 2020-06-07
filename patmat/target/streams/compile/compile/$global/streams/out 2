@@ -1,0 +1,49 @@
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E006] Unbound Identifier Error: /Users/macbook/5-huffman-coding-zeineb12/src/main/scala/patmat/HuffmanInterface.scala:8:19 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m8 |[0m  [33mdef[0m [36mweight[0m(tree: [35mCodeTree[0m): [35mInt[0m[0m
+[0m[[0m[31merror[0m] [0m[0m  |                   [31m^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m  |                   not found: type CodeTree[0m
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E006] Unbound Identifier Error: /Users/macbook/5-huffman-coding-zeineb12/src/main/scala/patmat/HuffmanInterface.scala:9:18 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m9 |[0m  [33mdef[0m [36mchars[0m(tree: [35mCodeTree[0m): [35mList[0m[[35mChar[0m][0m
+[0m[[0m[31merror[0m] [0m[0m  |                  [31m^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m  |                  not found: type CodeTree[0m
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E006] Unbound Identifier Error: /Users/macbook/5-huffman-coding-zeineb12/src/main/scala/patmat/HuffmanInterface.scala:11:58 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m11 |[0m  [33mdef[0m [36mmakeOrderedLeafList[0m(freqs: [35mList[0m[([35mChar[0m, [35mInt[0m)]): [35mList[0m[[35mLeaf[0m][0m
+[0m[[0m[31merror[0m] [0m[0m   |                                                          [31m^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                                    not found: type Leaf[0m
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E006] Unbound Identifier Error: /Users/macbook/5-huffman-coding-zeineb12/src/main/scala/patmat/HuffmanInterface.scala:12:28 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m12 |[0m  [33mdef[0m [36msingleton[0m(trees: [35mList[0m[[35mCodeTree[0m]): [35mBoolean[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                            [31m^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                            not found: type CodeTree[0m
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E006] Unbound Identifier Error: /Users/macbook/5-huffman-coding-zeineb12/src/main/scala/patmat/HuffmanInterface.scala:13:26 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m13 |[0m  [33mdef[0m [36mcombine[0m(trees: [35mList[0m[[35mCodeTree[0m]): [35mList[0m[[35mCodeTree[0m][0m
+[0m[[0m[31merror[0m] [0m[0m   |                          [31m^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                          not found: type CodeTree[0m
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E006] Unbound Identifier Error: /Users/macbook/5-huffman-coding-zeineb12/src/main/scala/patmat/HuffmanInterface.scala:13:43 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m13 |[0m  [33mdef[0m [36mcombine[0m(trees: [35mList[0m[[35mCodeTree[0m]): [35mList[0m[[35mCodeTree[0m][0m
+[0m[[0m[31merror[0m] [0m[0m   |                                           [31m^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                           not found: type CodeTree[0m
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E006] Unbound Identifier Error: /Users/macbook/5-huffman-coding-zeineb12/src/main/scala/patmat/HuffmanInterface.scala:14:41 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m14 |[0m  [33mdef[0m [36mcreateCodeTree[0m(chars: [35mList[0m[[35mChar[0m]): [35mCodeTree[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                         [31m^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                         not found: type CodeTree[0m
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E006] Unbound Identifier Error: /Users/macbook/5-huffman-coding-zeineb12/src/main/scala/patmat/HuffmanInterface.scala:15:19 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m15 |[0m  [33mdef[0m [36mdecode[0m(tree: [35mCodeTree[0m, bits: [35mList[0m[[35mInt[0m]): [35mList[0m[[35mChar[0m][0m
+[0m[[0m[31merror[0m] [0m[0m   |                   [31m^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                   not found: type CodeTree[0m
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E006] Unbound Identifier Error: /Users/macbook/5-huffman-coding-zeineb12/src/main/scala/patmat/HuffmanInterface.scala:17:19 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m17 |[0m  [33mdef[0m [36mencode[0m(tree: [35mCodeTree[0m)(text: [35mList[0m[[35mChar[0m]): [35mList[0m[[35mInt[0m][0m
+[0m[[0m[31merror[0m] [0m[0m   |                   [31m^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                   not found: type CodeTree[0m
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E006] Unbound Identifier Error: /Users/macbook/5-huffman-coding-zeineb12/src/main/scala/patmat/HuffmanInterface.scala:18:20 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m18 |[0m  [33mdef[0m [36mconvert[0m(tree: [35mCodeTree[0m): [35mList[0m[([35mChar[0m, [35mList[0m[[35mInt[0m])][0m
+[0m[[0m[31merror[0m] [0m[0m   |                    [31m^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                    not found: type CodeTree[0m
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E006] Unbound Identifier Error: /Users/macbook/5-huffman-coding-zeineb12/src/main/scala/patmat/HuffmanInterface.scala:19:24 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m19 |[0m  [33mdef[0m [36mquickEncode[0m(tree: [35mCodeTree[0m)(text: [35mList[0m[[35mChar[0m]): [35mList[0m[[35mInt[0m][0m
+[0m[[0m[31merror[0m] [0m[0m   |                        [31m^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                        not found: type CodeTree[0m
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E006] Unbound Identifier Error: /Users/macbook/5-huffman-coding-zeineb12/src/main/scala/patmat/HuffmanInterface.scala:20:18 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m20 |[0m  [33mdef[0m [36mfrenchCode[0m: [35mCodeTree[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                  [31m^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                  not found: type CodeTree[0m
+[0m[[0m[31merror[0m] [0m[0m12 errors found[0m

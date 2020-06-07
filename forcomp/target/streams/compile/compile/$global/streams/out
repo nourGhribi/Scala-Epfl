@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E040] Syntax Error: /Users/macbook/6-anagrams-zeineb12/src/main/scala/forcomp/Anagrams.scala:116:4 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m116 |[0m    )sortBy(._[31m1[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    |    [31m^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |    an identifier expected, but [31m')'[0m found[0m
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E018] Syntax Error: /Users/macbook/6-anagrams-zeineb12/src/main/scala/forcomp/Anagrams.scala:116:12 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m116 |[0m    )sortBy(._[31m1[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    |            [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |            illegal start of simple expression[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

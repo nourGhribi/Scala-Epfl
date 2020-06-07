@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/macbook/10-interpreter-zeineb12/target/scala-0.11/progfun2-interpreter_0.11-0.1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	interpreter/Lisp.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/10-interpreter-zeineb12/src/main/scala/interpreter/Lisp.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	interpreter/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/10-interpreter-zeineb12/src/main/scala/interpreter/Main.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

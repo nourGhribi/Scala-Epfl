@@ -1,0 +1,7 @@
+[0m[[0m[33mwarn[0m] [0m[0m[34m-- [E029] Pattern Match Exhaustivity Warning: /Users/macbook/10-interpreter-zeineb12/src/main/scala/interpreter/Lisp.scala:237:41 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[31m237 |[0m    [33mcase[0m [31m'case[0m :: expr_scrut :: cases => cases [33mmatch[0m{[0m
+[0m[[0m[33mwarn[0m] [0m[0m    |                                         [31m^^^^^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m    |                    match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0m    |                    [0m
+[0m[[0m[33mwarn[0m] [0m[0m    |                    It would fail on pattern case: Nil, List(_, _: _*)[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

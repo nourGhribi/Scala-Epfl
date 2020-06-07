@@ -1,0 +1,14 @@
+[0m[[0minfo[0m] [0m[32mHuffmanSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- weight of a larger tree[0m[0m
+[0m[[0minfo[0m] [0m[32m- chars of a larger tree[0m[0m
+[0m[[0minfo[0m] [0m[32m- string2chars("hello, world")[0m[0m
+[0m[[0minfo[0m] [0m[32m- makeOrderedLeafList for some frequency table[0m[0m
+[0m[[0minfo[0m] [0m[32m- combine of some leaf list[0m[0m
+[0m[[0minfo[0m] [0m[32m- decode and encode a very short text should be identity[0m[0m
+[0m[[0minfo[0m] [0m[32m- decode on secret[0m[0m
+[0m[[0minfo[0m] [0m[32m- encode on secret[0m[0m
+[0m[[0minfo[0m] [0m[32m- special Test[0m[0m
+[0m[[0minfo[0m] [0m[32m- codeBits and convert Test 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- codeBits and convert Test 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- codeBits and convert Test 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- quick encode on secret[0m[0m

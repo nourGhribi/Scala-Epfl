@@ -1,0 +1,27 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/macbook/6-anagrams-zeineb12/target/scala-0.9/progfun1-forcomp_0.9-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	forcomp/Anagrams.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/6-anagrams-zeineb12/target/scala-0.9/classes/forcomp/Anagrams.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	forcomp/AnagramsInterface.hasTasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/6-anagrams-zeineb12/target/scala-0.9/classes/forcomp/AnagramsInterface.hasTasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	forcomp/Dictionary.hasTasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/6-anagrams-zeineb12/target/scala-0.9/classes/forcomp/Dictionary.hasTasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	forcomp/AnagramsInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/6-anagrams-zeineb12/target/scala-0.9/classes/forcomp/AnagramsInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	common/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/6-anagrams-zeineb12/target/scala-0.9/classes/common/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	forcomp/Dictionary.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/6-anagrams-zeineb12/target/scala-0.9/classes/forcomp/Dictionary.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	forcomp/Anagrams$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/6-anagrams-zeineb12/target/scala-0.9/classes/forcomp/Anagrams$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	common[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/6-anagrams-zeineb12/target/scala-0.9/classes/common[0m
+[0m[[0m[0mdebug[0m] [0m[0m	common/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/6-anagrams-zeineb12/target/scala-0.9/classes/common/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	forcomp/Dictionary$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/6-anagrams-zeineb12/target/scala-0.9/classes/forcomp/Dictionary$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	forcomp/Anagrams.hasTasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/6-anagrams-zeineb12/target/scala-0.9/classes/forcomp/Anagrams.hasTasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	common/package.hasTasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/6-anagrams-zeineb12/target/scala-0.9/classes/common/package.hasTasty[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
